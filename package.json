@@ -1,0 +1,44 @@
+{
+  "name": "nhaoday",
+  "version": "1.0.0",
+  "description": "nhaoday.vn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rvor/12_nhaoday_ur.git"
+  },
+  "keywords": [
+    "nhaoday",
+    "react",
+    "redux"
+  ],
+  "author": "cuty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rvor/12_nhaoday_ur/issues"
+  },
+  "homepage": "https://github.com/Rvor/12_nhaoday_ur#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "css-loader": "^0.27.3",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "style-loader": "^0.15.0",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "react-redux": "^5.0.3",
+    "redux": "^3.6.0"
+  }
+}
