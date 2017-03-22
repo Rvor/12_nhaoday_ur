@@ -19,3 +19,5 @@ npm install extract-text-webpack-plugin --save-dev
 npm install express-handlebars --save
 10. install redux
 npm install redux react-redux --save
+11. install webpack-dev-server react-hot-loader
+npm install webpack-dev-server react-hot-loader --save-dev
